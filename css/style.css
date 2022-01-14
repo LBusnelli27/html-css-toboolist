@@ -167,8 +167,6 @@ li {
     font-size: 18px;
 }
 
-.button-surprise:active
-
 .button-surprise:active ~ .image-button{
     display: block;
     width: 600px;
