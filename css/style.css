@@ -6,7 +6,7 @@
 }
 
 
-
+/* Header */
 .header-content {
     margin-top: 10px;
     margin-bottom: 5px;
@@ -25,6 +25,7 @@
 
 
 
+/* Contenitore principale */
 .container-main {
     background-color: rgb(232, 232, 232);
     height: 100vh;
@@ -32,6 +33,7 @@
     font-family: sans-serif;
 }
 
+/* Box dove mettere tutto */
 .main-box {
     width: 65%;
     height: 700px;
@@ -57,6 +59,7 @@
     font-size: 15px;
 }
 
+/* Aggiunge bg-color bluetto */
 .color-bluetto {
     background-color: #13B5FB;
 }
@@ -75,10 +78,12 @@
     opacity: 0.3;
 }
 
+/* Cambia tutto il testo in grigio */
 .color-change-text {
     color: #515151;
 }
 
+/* Sistema i titoli dei task */
 .title-task {
     margin-top: 30px;
     margin-bottom: 15px;
@@ -93,11 +98,13 @@ li {
     margin-bottom: 20px;
 }
 
+/* Per creare i cerchi per check e wrong */
 .mk-cicle {
     padding: 2px 4px;
     border-radius: 50%;
 }
 
+/* Creazione dei 2 check e wrong simboli */
 .check-cicle-task {
     color: #00E650;
     border: 1px solid #00E650;
@@ -115,6 +122,9 @@ li {
     border-radius: 10px;
 }
 
+
+
+/* Da qui in poi ci sono tutti i cambi di bg-color per tutti i tag di fianco alle task */
 #tag-goals {
     background-color: #B15BEC;
 }
