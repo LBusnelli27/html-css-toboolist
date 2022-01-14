@@ -26,9 +26,10 @@
 
 
 .container-main {
-    background-color: lightgrey;
-    height: 500px;
+    background-color: rgb(232, 232, 232);
+    height: 1000px;
     overflow: auto;
+    font-family: sans-serif;
 }
 
 .main-box {
@@ -38,4 +39,38 @@
     margin: 0 auto;
     border-radius: 5px;
     margin-top: 50px;
+    overflow: auto;
+}
+
+.margin-left-main {
+    margin-left: 40px;
+}
+
+.add-things {
+    margin-top: 15px;
+}
+
+.button-add {
+    border: 1px solid lightgray;
+    padding: 7px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.color-bluetto {
+    background-color: #13B5FB;
+}
+
+.add-task {
+    margin-right: 10px;
+    color: #ffffff;
+}
+
+.add-secition {
+    color: lightgrey;
+}
+
+.color-hr {
+    margin-top: 15px;
+    opacity: 0.3;
 }
