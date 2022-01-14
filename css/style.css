@@ -47,12 +47,12 @@
 }
 
 .add-things {
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 .button-add {
     border: 1px solid lightgray;
-    padding: 7px;
+    padding: 7px 10px;
     border-radius: 5px;
     font-size: 15px;
 }
@@ -73,4 +73,30 @@
 .color-hr {
     margin-top: 15px;
     opacity: 0.3;
+}
+
+.new-task-section {
+    color: #515151;
+}
+
+.title-task {
+    margin-top: 30px;
+}
+
+ul {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.check-cicle-task {
+    color: #00E650;
+    border: 1px solid #00E650;
+    border-radius: 50%;
+}
+
+.tag-editorial {
+    padding: 5px 10px;
+    font-size: 12px;
+    color: #ffffff;
+    border-radius: 10px;
 }
