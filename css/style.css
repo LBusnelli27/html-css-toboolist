@@ -5,10 +5,37 @@
     padding: 0;
 }
 
-.logo-header {
 
+
+.header-content {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.logo-header {
+    margin-left: 20px;
 }
 
 .text-header {
-    
+    font-size: 3em;
+    font-family: sans-serif;
+    vertical-align: top;
+    font-weight: 600;
+}
+
+
+
+.container-main {
+    background-color: lightgrey;
+    height: 500px;
+    overflow: auto;
+}
+
+.main-box {
+    width: 50%;
+    height: 200px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 50px;
 }
