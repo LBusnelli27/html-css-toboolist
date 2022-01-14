@@ -144,3 +144,33 @@ li {
 #tag-sales {
     background-color: #AEE455;
 }
+
+
+
+
+
+.surprise{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.image-button {
+    display: none;
+    margin: 20px auto;
+}
+
+.button-surprise {
+    padding: 20px 50px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background-color: aqua;
+    font-size: 18px;
+}
+
+.button-surprise:active
+
+.button-surprise:active ~ .image-button{
+    display: block;
+    width: 600px;
+    height: 350px;
+}
