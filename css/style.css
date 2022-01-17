@@ -125,23 +125,23 @@ li {
 
 
 /* Da qui in poi ci sono tutti i cambi di bg-color per tutti i tag di fianco alle task */
-#tag-goals {
+.tag-goals {
     background-color: #B15BEC;
 }
 
-#tag-recruting {
+.tag-recruting {
     background-color: #1EE186;
 }
 
-#tag-mobile {
+.tag-mobile {
     background-color: #F5B11F;
 }
 
-#tag-website {
+.tag-website {
     background-color: #E455B2;
 }
 
-#tag-sales {
+.tag-sales {
     background-color: #AEE455;
 }
 
